@@ -1,0 +1,2 @@
+# flutter_livephoto
+iOS中将图片或者视频合成为livephoto，支持网络和本地资源合成
